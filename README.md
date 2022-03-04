@@ -1,8 +1,5 @@
 # Price-Compare
 
-#### Name : PATEL KAUSHALKUMAR
-#### ID : 18DCS072
-
 ### Aim : 
 
 Find same product price at a moment form Amazon and Flipkart. Price of product is displayed, so that buyers can make the decision to buy from platform which offers lowest price.
